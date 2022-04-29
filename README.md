@@ -1,2 +1,2 @@
-# Oasis-infobite
+# Oasis-infobyte
 Landing Page 
